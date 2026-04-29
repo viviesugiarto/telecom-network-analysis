@@ -1,4 +1,4 @@
-# telecom-network-analysis
+# TELECOM-NETWORK-ANALYSIS
 Graph-based analysis of telecom networks including routing, centrality, and resilience (synthetic model)
 
 ## Methodology
